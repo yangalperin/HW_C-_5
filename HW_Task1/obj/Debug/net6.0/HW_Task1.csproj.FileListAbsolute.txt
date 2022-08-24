@@ -1,0 +1,15 @@
+/Users/yan/Desktop/HW_C#_5/HW_Task1/bin/Debug/net6.0/HW_Task1
+/Users/yan/Desktop/HW_C#_5/HW_Task1/bin/Debug/net6.0/HW_Task1.deps.json
+/Users/yan/Desktop/HW_C#_5/HW_Task1/bin/Debug/net6.0/HW_Task1.runtimeconfig.json
+/Users/yan/Desktop/HW_C#_5/HW_Task1/bin/Debug/net6.0/HW_Task1.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task1/bin/Debug/net6.0/HW_Task1.pdb
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.csproj.AssemblyReference.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.AssemblyInfoInputs.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.AssemblyInfo.cs
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/refint/HW_Task1.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.pdb
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/HW_Task1.genruntimeconfig.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task1/obj/Debug/net6.0/ref/HW_Task1.dll
