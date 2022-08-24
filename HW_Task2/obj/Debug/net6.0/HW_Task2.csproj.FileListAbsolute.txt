@@ -1,0 +1,15 @@
+/Users/yan/Desktop/HW_C#_5/HW_Task2/bin/Debug/net6.0/HW_Task2
+/Users/yan/Desktop/HW_C#_5/HW_Task2/bin/Debug/net6.0/HW_Task2.deps.json
+/Users/yan/Desktop/HW_C#_5/HW_Task2/bin/Debug/net6.0/HW_Task2.runtimeconfig.json
+/Users/yan/Desktop/HW_C#_5/HW_Task2/bin/Debug/net6.0/HW_Task2.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task2/bin/Debug/net6.0/HW_Task2.pdb
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.csproj.AssemblyReference.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.AssemblyInfoInputs.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.AssemblyInfo.cs
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/refint/HW_Task2.dll
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.pdb
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/HW_Task2.genruntimeconfig.cache
+/Users/yan/Desktop/HW_C#_5/HW_Task2/obj/Debug/net6.0/ref/HW_Task2.dll
